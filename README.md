@@ -1,4 +1,6 @@
+
 ### Hi there 👋
+![ezgif-1-89e9cb7d6d](https://user-images.githubusercontent.com/26182195/176655382-be956284-9cf3-40b1-ae09-c02a67297dca.gif)
 
 <!--
 **Empatixx/Empatixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
