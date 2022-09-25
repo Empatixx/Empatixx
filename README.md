@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Bane 2D Game](https://github.com/Empatixx/Bane)  
   
 
-- 🌱 I’m currently learning Java Spring  
+- 🌱 I’m currently learning Js,Ts,React
   
 
 <br/>  
