@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jiří Krokviak, Java/Game Developer ☕</div>  
   
 
-- 🔭 I’m currently working on refactoring my game Bane with my new experiences
+- 🔭 I’m currently working on <a href="https://codexis.cz/">Codexis.cz</a>
   
 
 - 🌱 I’m currently learning AI (GPT-4, Lamma alpaca)
