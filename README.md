@@ -6,10 +6,10 @@
 ### <div align="center">I'm Jiří Krokviak, Java/Game Developer ☕</div>  
   
 
-- 🔭 I’m currently working on [Bane 2D Game](https://github.com/Empatixx/Bane)  
+- 🔭 I’m currently working on refactoring my game Bane with my new experiences
   
 
-- 🌱 I’m currently learning Js,Ts,React
+- 🌱 I’m currently learning AI (GPT-4, Lamma alpaca)
   
 
 <br/>  
