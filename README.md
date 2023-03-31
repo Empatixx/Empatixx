@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on <a href="https://codexis.cz/">Codexis.cz</a>
   
 
-- 🌱 I’m currently learning AI (GPT-4, Lamma alpaca)
+- 🌱 I’m currently learning AI/ML
   
 
 <br/>  
