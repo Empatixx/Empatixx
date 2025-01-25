@@ -4,7 +4,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Ji%C5%99%C3%AD!&fontSize=28&fontColor=fff&fontAlignY=34)
 
-<h3>Java/Game Developer ☕ | <a href="https://codexis.cz/">Codexis.cz</a></h3>
+<h3>Backend Engineer | AI Enthusiast ☕ | <a href="https://codexis.cz/">Codexis.cz</a></h3>
 
 </div>
 
