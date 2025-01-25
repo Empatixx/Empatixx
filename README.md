@@ -32,7 +32,7 @@
 
 ## 🛠 Tech Stack
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
       <h3 align="center">Backend & AI</h3>
@@ -66,16 +66,17 @@
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Empatixx&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Empatixx&show_icons=true&count_private=true&hide_border=true&theme=radical" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Empatixx&layout=compact&hide_border=true&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Empatixx&layout=compact&hide_border=true&theme=radical" />
     </td>
   </tr>
 </table>
+
 
 ---
 
