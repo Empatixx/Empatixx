@@ -1,107 +1,117 @@
-
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Ji%C5%99%C3%AD!&fontSize=28&fontColor=fff&fontAlignY=34)
 
-<h3>Software Engineer ☕</h3>
+<img src="assets/hero.png" alt="Jiří Krokviak — Software Engineer" width="100%">
+
+[![Website](https://img.shields.io/badge/jirikrokviak.cz-0A0D12?style=flat-square&labelColor=0A0D12&color=96CD1E)](https://jirikrokviak.cz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://linkedin.com/in/jirikrokviak)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Empatixx)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/Empatix)
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/Empatixx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/jirikrokviak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/jirikvak" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/Empatix" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+I work on **[Codexis](https://codexis.ai/)** — a native agentic AI platform for legal practice,
+where connected legislation, case law and commentary get turned into something a lawyer can
+actually work with. Most of my time goes into the agentic layer and the infrastructure that keeps
+it fast, isolated and observable.
 
----
+Outside of that I write games and mobile apps for the fun of the engineering underneath them.
 
-## 🚀 About Me
+## What I've built
 
-- 🎮 Passionate about **GenAI**
-- ☕ Fueled by **Java** and curious about everything tech.
-
----
-
-## 🛠 Tech Stack
-
-<table align="center">
+<table>
   <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">Backend & AI</h3>
-      <div align="center">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-        <img style="margin: 10px" src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" alt="Spring" height="50" />
-        <img style="margin: 10px" src="https://www.svgrepo.com/download/330413/fastapi.svg" alt="FastAPI" height="50" />
-        <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" height="50" />
-        <img style="margin: 10px" src="https://grpc.io/img/logos/grpc-logo.svg" alt="gRPC" height="50" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />
-        <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="50" />
-        <img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50" />
-      </div>
+    <td width="33.3%" align="center">
+      <a href="https://codexis.ai/"><img src="assets/project-codexis.png" alt="Codexis AI" width="100%"></a>
     </td>
-    <td valign="top" width="50%">
-      <h3 align="center">Ops & Tools</h3>
-      <div align="center">
-        <img style="margin: 10px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" height="50" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-        <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="Maven" height="50" />
-      </div>
+    <td width="33.3%" align="center">
+      <a href="https://github.com/Empatixx/kalky"><img src="assets/project-kalky.png" alt="Kalky" width="100%"></a>
+    </td>
+    <td width="33.3%" align="center">
+      <a href="https://github.com/Empatixx/Bane"><img src="assets/project-bane.png" alt="Bane" width="100%"></a>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td>
+      <b><a href="https://codexis.ai/">Codexis AI</a></b><br>
+      Agentic AI platform for legal work — legislation, case law and commentary, connected.<br>
+      <sub><code>Java</code> <code>Python</code> <code>Rust</code> <code>Go</code> <code>Kubernetes</code></sub>
+    </td>
+    <td>
+      <b><a href="https://github.com/Empatixx/kalky">Kalky</a></b><br>
+      Food and nutrition tracking for Android and iOS. Log a meal by photographing it — a vision model does the rest.<br>
+      <sub><code>Kotlin Multiplatform</code> <code>Compose</code> <code>Bun</code> <code>OpenAI</code></sub>
+    </td>
+    <td>
+      <b><a href="https://github.com/Empatixx/Bane">Bane</a></b><br>
+      Top-down roguelike shooter on a game engine I wrote myself — renderer, audio, netcode, all of it.<br>
+      <sub><code>Java</code> <code>LWJGL</code> <code>OpenGL</code> <code>KryoNet</code></sub>
     </td>
   </tr>
 </table>
 
----
+## At Codexis
 
-## 📊 GitHub Stats
+| | |
+|---|---|
+| **Codexis AI 2.0** | The agentic generation of the platform |
+| **Codexis AI 1.0 + AI hypertexter** | The first AI generation of the product, and automatic linking of legal references in documents |
+| **Fulltext search** | Search across the whole legal corpus |
+| **SSO → Keycloak** | Migrated a custom single sign-on implementation onto Keycloak |
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Empatixx&show_icons=true&count_private=true&hide_border=true&theme=radical" />
-    </td>
-    <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Empatixx&layout=compact&hide_border=true&theme=radical" />
-    </td>
-  </tr>
-</table>
+## Stack
 
+**Languages**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-## 🎧 Spotify Listening
+**Services & APIs**
 
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ktn964nv43jaxntgg7nbi4hs5&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=0f16d7&bar_color_cover=false"/>
-</div>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-B7410E?style=flat-square&logo=rust&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-2C3E50?style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square)
 
----
+**Data & messaging**
 
-## 🏆 GitHub Trophies
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Empatixx&theme=dracula&no-frame=true" alt="Trophies" />
-</div>
+**Machine learning**
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-<div align="center">
+**Infrastructure & ops**
 
-**Thanks for visiting!**  
-*Happy coding!*
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firecracker](https://img.shields.io/badge/Firecracker-FF9900?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+## Education
 
-</div>
+**Masaryk University** — Master's, Computer Software Engineering · *2025 – 2027*
+> Thesis (in progress): a legal-focused agentic cloud platform that gives every user an isolated
+> environment.
 
+**VŠB – Technical University of Ostrava** — Bachelor's, Computer Science · *2022 – 2025*
+> Graded in the **top 3%**. Thesis: *Individual Professional Practice in the Company — scalable
+> legal AI* — [dspace.vsb.cz](https://dspace.vsb.cz/handle/10084/157116)
+
+## Competitions
+
+**MČR 2022** — competed at the Czech national programming championship, among the country's top
+student developers. Solutions: [Domino](https://github.com/Empatixx/MCR-Domino) ·
+[Pac-Man](https://github.com/Empatixx/MCR-Pac-Man)
+
+<div align="center"><sub>Czech Republic · always up for talking about agents, search, and things that run in microVMs.</sub></div>
