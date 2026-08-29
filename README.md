@@ -49,15 +49,6 @@ Outside of that I write games and mobile apps for the fun of the engineering und
   </tr>
 </table>
 
-## At Codexis
-
-| | |
-|---|---|
-| **Codexis AI 2.0** | The agentic generation of the platform |
-| **Codexis AI 1.0 + AI hypertexter** | The first AI generation of the product, and automatic linking of legal references in documents |
-| **Fulltext search** | Search across the whole legal corpus |
-| **SSO → Keycloak** | Migrated a custom single sign-on implementation onto Keycloak |
-
 ## Stack
 
 **Languages**
