@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="assets/hero.png" alt="Jiří Krokviak — Software Engineer" width="100%">
+# Jiří Krokviak
 
-[![Website](https://img.shields.io/badge/jirikrokviak.cz-0A0D12?style=flat-square&labelColor=0A0D12&color=96CD1E)](https://jirikrokviak.cz/)
+**Software engineer** · Czech Republic
+
+`Java` · `Python` · `Rust` · `Go` · `Kubernetes`
+
+[![Website](https://img.shields.io/badge/jirikrokviak.cz-3D4451?style=flat-square)](https://jirikrokviak.cz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://linkedin.com/in/jirikrokviak)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Empatixx)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/Empatix)
