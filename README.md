@@ -24,14 +24,11 @@ Outside of that I write games and mobile apps for the fun of the engineering und
 
 <table>
   <tr>
-    <td width="33.3%" align="center">
+    <td width="50%" align="center">
       <a href="https://codexis.ai/"><img src="assets/project-codexis.png" alt="Codexis AI" width="100%"></a>
     </td>
-    <td width="33.3%" align="center">
-      <a href="https://github.com/Empatixx/kalky"><img src="assets/project-kalky.png" alt="Kalky" width="100%"></a>
-    </td>
-    <td width="33.3%" align="center">
-      <a href="https://github.com/Empatixx/Bane"><img src="assets/project-bane.png" alt="Bane" width="100%"></a>
+    <td width="50%" align="center">
+      <a href="https://github.com/Empatixx/houseit"><img src="assets/project-houseit.png" alt="houseit" width="100%"></a>
     </td>
   </tr>
   <tr valign="top">
@@ -40,6 +37,21 @@ Outside of that I write games and mobile apps for the fun of the engineering und
       Agentic AI platform for legal work — legislation, case law and commentary, connected.<br>
       <sub><code>Java</code> <code>Python</code> <code>Rust</code> <code>Go</code> <code>Kubernetes</code></sub>
     </td>
+    <td>
+      <b><a href="https://github.com/Empatixx/houseit">houseit</a></b><br>
+      Floor plan editor you drive by talking to a coding agent — commands over MCP redraw the plan, and you can walk through it in 3D.<br>
+      <sub><code>TypeScript</code> <code>React</code> <code>three.js</code> <code>MCP</code> <code>Bun</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Empatixx/kalky"><img src="assets/project-kalky.png" alt="Kalky" width="100%"></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Empatixx/Bane"><img src="assets/project-bane.png" alt="Bane" width="100%"></a>
+    </td>
+  </tr>
+  <tr valign="top">
     <td>
       <b><a href="https://github.com/Empatixx/kalky">Kalky</a></b><br>
       Food and nutrition tracking for Android and iOS. Log a meal by photographing it — a vision model does the rest.<br>
